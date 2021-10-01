@@ -1,2 +1,2 @@
 # Portugol
-Exercícios em geral no Portugol Studio pela Generation Brasil.
+Exercícios em geral no Portugol Studio propostos pela Generation Brasil.
